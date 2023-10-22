@@ -42,9 +42,10 @@ Receive a summary of the booking with total cost and instructions.
 
 ## Screenshots:
 
-![1](https://github.com/MohamedFayaz07/Movie-Ticket-Booking-System/assets/148647323/354ff3a5-595f-414f-958e-128724765a45)
-![2](https://github.com/MohamedFayaz07/Movie-Ticket-Booking-System/assets/148647323/c9dee81f-d5bb-49b0-91c5-484cb5488a0e)
-![3](https://github.com/MohamedFayaz07/Movie-Ticket-Booking-System/assets/148647323/3b235688-102b-4f31-b369-6675cd7837d2)
+![1](https://github.com/MohamedFayaz07/Movie-Ticket-Booking-System/assets/148647323/5e8bd957-684e-4d80-87f3-a16131b720a4)
+![2](https://github.com/MohamedFayaz07/Movie-Ticket-Booking-System/assets/148647323/58f887bd-40e6-4dfd-a2ab-f8dfaccfbad4)
+![3](https://github.com/MohamedFayaz07/Movie-Ticket-Booking-System/assets/148647323/515e4f93-6e58-4e70-8fe7-6b96e08bdb4c)
+
 
 ## Contributing:
 
